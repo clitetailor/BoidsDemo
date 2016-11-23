@@ -1,12 +1,12 @@
 BoidsDemo
 =========
 
-boids stimulation program in unity
+Boids stimulation program in Unity
 
 Setup
 -----
 
-Scene file `Workspace.unity` is under `Assets` folder. Open scene file in unity and run
+Scene file `Workspace.unity` is under `Assets` folder. Open scene file in Unity and run
 
 Preview
 -------
